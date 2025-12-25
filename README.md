@@ -14,3 +14,10 @@ Professional with 2 years of experience in Golden C-Coin and Professional Game D
 
 ---
 📍 West Agargaon, Dhaka, Bangladesh
+🚀 CPY Network - Mission & Vision
+Goal: Building a secure and transparent digital ecosystem with Golden C-Coin.
+Key Objectives:
+Develop high-quality Blockchain projects.
+Create innovative Game Development solutions.
+Ensure 100% transparency through GitHub updates.
+“We are committed to building the future of digital assets.”
