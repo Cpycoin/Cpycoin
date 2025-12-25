@@ -1,16 +1,16 @@
-## Hi there 👋
+# MD. SAJIB HOWLADER - CPY-Network-Official
 
-<!--
-**Cpycoin/Cpycoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cpycoin/CPY-Network-Logo/main/1766692618171.jpg" width="200" alt="CPY Network Golden Logo">
+</p>
 
-Here are some ideas to get you started:
+### 🚀 Founder of CPY Crypto Network
+Professional with 2 years of experience in Golden C-Coin and Professional Game Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack & Skills:
+* **Blockchain:** Crypto Network Development
+* **Gaming:** Professional Game Development
+* **Tools:** GitHub, Digital Assets Management
+
+---
+📍 West Agargaon, Dhaka, Bangladesh
